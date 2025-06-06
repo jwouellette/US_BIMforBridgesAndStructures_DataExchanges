@@ -1,9 +1,0 @@
-Level 4	- Bridges
-	
-Description:
-Examples of complete supported bridge designs
-
-Goals/Concepts Tested:
-- IfcAlignment
-- Geolocation
-- Project hierarchy including Project, Site, Facility, …
