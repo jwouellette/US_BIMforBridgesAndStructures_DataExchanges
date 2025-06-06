@@ -1,4 +1,7 @@
-# TPF-5_372-Unit_Test_Suite
+# US BIM for Bridges and Structures Data Exchanges Technical Support
+This repository is an evolving resource to suport the exchange of data created using BIM tools and workflows during the lifecycle of bridges and associated structures (e.g., slope protection, retaining systems, approaches, and culverts) in the US highway transportation system. The repo is meant to provide technical resources to help software vendors with their implementations and the end user BIM experts with their deployments on projects.
+
+## TPF-5_372-Unit_Test_Suite
 The Unit Test Suite (UTS) is the Test Instruction (.pdf, .csv/.xlsx, .ids) and IFC file repository (.ifc) for the BIM for Bridges and Structures Transportation Pooled Fund project https://bimforbridgesus.com/
 
 The test instructions (TIs) provide information about the modeling of various bridge elements and whole bridges and their repsective IFC4.3.x schema mapping, as well as associated data/properties, for the Design-to-Construction exchange. The exchange is based on the bSI Alignment-based Reference View (AbRV), with content outlined:
